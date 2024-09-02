@@ -25,12 +25,12 @@ This is a solution to the [Product list with cart challenge on Frontend Mentor](
 
 Users should be able to:
 
-- [ ] Add items to the cart and remove them &check;
-- [x] Increase/decrease the number of items in the cart
-- See an order confirmation modal when they click "Confirm Order" &check;
-- Reset their selections when they click "Start New Order" &check;
-- View the optimal layout for the interface depending on their device's screen size &check;
-- See hover and focus states for all interactive elements on the page &check;
+- [x] Add items to the cart and remove them &check;
+- [ ] Increase/decrease the number of items in the cart
+- [x] See an order confirmation modal when they click "Confirm Order" &check;
+- [x] Reset their selections when they click "Start New Order" &check;
+- [x] View the optimal layout for the interface depending on their device's screen size &check;
+- [x] See hover and focus states for all interactive elements on the page &check;
 
 ### Screenshot
 <a id="screenshot">
@@ -40,8 +40,8 @@ Users should be able to:
 
 ### Links
 <a id="links">
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://github.com/Simplysaad/Product-list-with-cart/tree/main)
+- Live Site URL: [live site](https://your-live-site-url.com)
 
 ## My process
 <a id="my-process">
