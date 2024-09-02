@@ -1,0 +1,35 @@
+
+:root{
+  --orange: #C83810 ;
+}
+.category{
+  font-size: 11px;
+}
+.btn-cart{
+  background: whitesmoke;
+  border-radius: 30px;
+  padding: 8px 32px;
+  outline: var(--orange);
+  transform: translate(50%, -80%);
+}
+.btn-cart:hover{
+  background: var(--orange);
+}
+.btn-order{
+  background: var(--orange);
+  width: 100%;
+  margin: 10px auto;
+}
+.btn-cancel{
+  position: absolute;
+  transform: translate(300px, -50px); 
+}
+#nothingHere{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#btnOrder{
+  display: none;
+}
