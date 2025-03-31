@@ -45,6 +45,7 @@ Users should be able to:
 
 ## My process
 <a id="my-process">
+
 ### Built with
 <a id="built-with">
 
